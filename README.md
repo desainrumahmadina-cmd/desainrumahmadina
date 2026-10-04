@@ -1,9 +1,8 @@
-# Desain Rumah Madina
+# Desain Rumah Madina — Premium
 
-Website resmi Desain Rumah Madina — Mandailing Natal.
+Website premium siap untuk GitHub Pages.
 
-## GitHub Pages
-Repository ini dapat dipublikasikan menggunakan GitHub Pages. Custom domain: `www.desainrumahmadina.com`.
-
-## Kontak
 WhatsApp: 0813-6007-3500
+Wilayah: Mandailing Natal, Sumatera Utara
+
+Folder ini tidak memakai custom domain agar tetap gratis di GitHub Pages.
